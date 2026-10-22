@@ -1,0 +1,12 @@
+target/
+*.class
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+apache-maven-*/
+maven.zip
+node_modules/
+dist/
+.DS_Store
